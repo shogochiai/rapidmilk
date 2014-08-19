@@ -2,12 +2,16 @@
 
 ![newgame](./newgame.png)
 
-- milkcocoaのチュートリアルが分かりにくいし面倒くさいぜって人のために
+- [milkcocoa](mlkcca.com)のチュートリアルが分かりにくいし面倒くさいぜって人のために
 
 ## コンテンツ
 
 - milkcocoa(mlkcca.com)を使ったチャット
-- バージョンを最新に
-- あなたがやることはアカウント作成とapp作成
-- そしてmain.jsにapp_idをコピペして
+- milkcocoaバージョン0.2.5を最新に
+
+
+## あなたがやること
+- `git clone https://github.com/shogochiai/rapidmilk.git`
+- [milkcocoa](mlkcca.com)でアカウント作成とapp作成
+- main.jsにapp_idをコピペ
 - `open index.html`
