@@ -7,7 +7,7 @@
 ## コンテンツ
 
 - milkcocoa(mlkcca.com)を使ったチャット
-- milkcocoaバージョン0.2.5を最新に
+- milkcocoaバージョン0.2.8を最新に
 
 
 ## あなたがやること
